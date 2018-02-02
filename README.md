@@ -43,3 +43,5 @@ http://andylin02.iteye.com/blog/648412             fastcgi 中文版内容
 
 https://www.sslforfree.com/   免费的ssl
 
+https://gitee.com/javen205/weixin_guide  微信公众号极速开发
+
