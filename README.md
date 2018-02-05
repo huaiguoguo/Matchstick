@@ -47,3 +47,5 @@ https://gitee.com/javen205/weixin_guide  微信公众号极速开发
 
 http://www.kuitao8.com/20150515/3742.shtml   Yii2 Joins操作的方法_懒人程序
 
+http://www.kuitao8.com/20150919/4061.shtml   Yii2中的OAuth扩展及QQ互联登录
+
