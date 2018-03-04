@@ -49,3 +49,5 @@ http://www.kuitao8.com/20150515/3742.shtml   Yii2 Joins操作的方法_懒人程
 
 http://www.kuitao8.com/20150919/4061.shtml   Yii2中的OAuth扩展及QQ互联登录
 
+https://www.cnblogs.com/vipzhou/p/4949120.html  nodejs中cookie、session的使用
+
