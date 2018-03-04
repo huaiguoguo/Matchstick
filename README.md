@@ -61,5 +61,7 @@ http://mongoosejs.com/    mongoose 官网
 
 https://www.cnblogs.com/web-fengmin/p/6435681.html  mongoDB与mongoose
 
+http://blog.fens.me/series-nodejs/   从零开始nodejs系列文章
+
 
 
