@@ -57,5 +57,7 @@ http://www.cjjjs.com/paper/bcyy/201710723381884.html  用python实现session
 
 https://www.cnblogs.com/yangjinjin/p/5371415.html   nodejs操作mongodb数据库封装DB类
 
+http://mongoosejs.com/    mongoose 官网
+
 
 
