@@ -51,5 +51,7 @@ http://www.kuitao8.com/20150919/4061.shtml   Yii2中的OAuth扩展及QQ互联登
 
 https://www.cnblogs.com/vipzhou/p/4949120.html  nodejs中cookie、session的使用
 
+https://www.cnblogs.com/rubylouvre/archive/2012/08/19/2645644.html  node.js操作Cookie
+
 http://www.cjjjs.com/paper/bcyy/201710723381884.html  用python实现session
 
