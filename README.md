@@ -59,5 +59,7 @@ https://www.cnblogs.com/yangjinjin/p/5371415.html   nodejs操作mongodb数据库
 
 http://mongoosejs.com/    mongoose 官网
 
+https://www.cnblogs.com/web-fengmin/p/6435681.html  mongoDB与mongoose
+
 
 
