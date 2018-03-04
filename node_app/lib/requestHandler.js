@@ -4,9 +4,19 @@ let url = require("url"),
     fs = require('fs'),
     path = require('path'),
     conf = require('../conf/config'),
+    session = require('./session'),
     BaseController = require(path.join(conf.path.libPath, 'BaseController'));
 
 exports.hanlder = (req, res) => {
+
+    // console.log(req.headers.cookie);
+    // req.session = new session();
+    // console.log(req.session);
+
+    // req.session.set("name", "guofeng");
+    // let key = req.session.get("name");
+    // console.log("afdasdf");
+
     let url_path = url.parse(req.url, true);
     let pathname = url_path.pathname;
     let path_arr = pathname.split("/");
@@ -33,7 +43,7 @@ exports.hanlder = (req, res) => {
         }
         controller[newRoute[1]].call(new BaseController(req, res), query);
     } else {
-        res.writeHead(404, {"content-type": "text/html", "charset": "UTF-8"});
+        res.writeHead(404, {"Content-Type": "text/html;charset=UTF-8", "Set-Cookie":"name=guofeng; domain=.baidu.com; path=/"});
         res.write(newRoute[1] + "未定义");
         res.end();
     }

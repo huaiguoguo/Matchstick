@@ -1,0 +1,9 @@
+{
+  "name": "Matchstick",
+  "version": "0.0.1",
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "mongodb": "latest",
+    "mongoose": "latest"
+  }
+}

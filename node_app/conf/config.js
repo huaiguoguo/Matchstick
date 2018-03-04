@@ -1,8 +1,8 @@
 'use strict';
 
-let path = require('path');
+const path = require('path');
 
-let pathConfig = {
+const pathConfig = {
     'viewPath': path.resolve(__dirname, '../views'),
     'modelPath': path.resolve(__dirname, '../models'),
     'controllerPath': path.resolve(__dirname, '../controllers'),
@@ -10,4 +10,10 @@ let pathConfig = {
     'confPath': __dirname,
 };
 
+const session = {
+    'duration':'cookieName'
+};
+
+
+exports.session = session;
 exports.path = pathConfig;
