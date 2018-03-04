@@ -49,3 +49,19 @@ http://www.kuitao8.com/20150515/3742.shtml   Yii2 Joins操作的方法_懒人程
 
 http://www.kuitao8.com/20150919/4061.shtml   Yii2中的OAuth扩展及QQ互联登录
 
+https://www.cnblogs.com/vipzhou/p/4949120.html  nodejs中cookie、session的使用
+
+https://www.cnblogs.com/rubylouvre/archive/2012/08/19/2645644.html  node.js操作Cookie
+
+http://www.cjjjs.com/paper/bcyy/201710723381884.html  用python实现session
+
+https://www.cnblogs.com/yangjinjin/p/5371415.html   nodejs操作mongodb数据库封装DB类
+
+http://mongoosejs.com/    mongoose 官网
+
+https://www.cnblogs.com/web-fengmin/p/6435681.html  mongoDB与mongoose
+
+http://blog.fens.me/series-nodejs/   从零开始nodejs系列文章
+
+
+
