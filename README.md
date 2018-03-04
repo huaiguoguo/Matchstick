@@ -63,5 +63,13 @@ https://www.cnblogs.com/web-fengmin/p/6435681.html  mongoDB与mongoose
 
 http://blog.fens.me/series-nodejs/   从零开始nodejs系列文章
 
+http://python.jobbole.com/85155/   让我们一起来构建一个模板引擎
+
+http://python.jobbole.com/all-posts/   Python - 伯乐在线 
+
+
+
+
+
 
 
